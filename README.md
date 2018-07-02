@@ -3,7 +3,7 @@
 
 [![N|Solid](https://bunifuframework.com/wp-content/uploads/2017/06/Bunifu-framework-logo-web.png)](https://bunifuframework.com/)
 
-This demo shows how to make use of BunifuPictureBox to it's maximum, it has custom controls including
+This demo shows how to make use of BunifuPictureBox to it's maximum, it has custom properties including
 
   - **BorderRadius** -Gets or Sets the border radius of the picturebox
   - **IsCircle** - Gets or Sets the IsCircle property of the picturebox for exact amount of radius to height ratio
@@ -13,7 +13,7 @@ Advantages of BunifuPictureBox is you can achieve your desired look with a few p
 
 **Screenshot**
 
-![Example](https://github.com/k33ptoo/BunifuPictureBoxDemo/blob/master/res/imgs/img.png)
+![Example](https://github.com/k33ptoo/BunifuPictureBoxDemo/blob/master/BunifuPictureBoxDemo/res/imgs/img.png)
 
 # Setting Image for BunifuPictureBox
 Apart from the normal way of setting an image from a resource - here are a few ways to set BunifuPictureBox Image.
@@ -101,11 +101,7 @@ Note : Make sure you add these libraries before testing this app
 **Others**
 
 If you would wish to try fetching the data from the db make sure you setup local server and add the db attached
-
-**Db**
-
-
-![DB](https://github.com/k33ptoo/BunifuPictureBoxDemo/blob/master/res/db/bunifu_tests.sql)
+[Database](https://github.com/k33ptoo/BunifuPictureBoxDemo/blob/master/BunifuPictureBoxDemo/res/db/bunifu_tests.sql)
 
 Buy or try [Bunifu Framework](https://bunifuframework.com/) Today
 
